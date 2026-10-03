@@ -1,0 +1,17 @@
+{
+  "name": "morning-digest",
+  "version": "1.0.0",
+  "description": "Daily AI-powered morning news digest with text-to-speech, tailored for an ERP consultant in Malaysia.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "digest": "node index.js"
+  },
+  "keywords": ["news", "digest", "tts", "grok", "malaysia", "erp"],
+  "author": "Koo",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
